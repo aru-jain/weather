@@ -33,7 +33,9 @@ JavaScript (Fetch API, DOM manipulation)
 ├── waether.html
 
 
-All HTML, CSS, and JavaScript are written in a single file for simplicity.
+<img width="504" height="415" alt="image" src="https://github.com/user-attachments/assets/14ff3786-f57c-4937-b24c-47191535b5dd" />
+
+
 
 ⚙️ How It Works
 
