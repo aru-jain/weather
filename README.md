@@ -30,7 +30,7 @@ CSS
 JavaScript (Fetch API, DOM manipulation)
 
 📂 Project Structure
-├── index.html
+├── waether.html
 
 
 All HTML, CSS, and JavaScript are written in a single file for simplicity.
