@@ -30,7 +30,7 @@ CSS
 JavaScript (Fetch API, DOM manipulation)
 
 📂 Project Structure
-├── waether.html
+├── weather.html
 
 
 <img width="504" height="415" alt="image" src="https://github.com/user-attachments/assets/14ff3786-f57c-4937-b24c-47191535b5dd" />
